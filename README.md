@@ -1,16 +1,49 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**cynexstudio/cynexstudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Cynex Studio
 
-Here are some ideas to get you started:
+Software Developer focused on game systems, web tools, automation, and clean backend workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Website](https://img.shields.io/badge/Website-cynexwork.com.tr-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://cynexwork.com.tr)
+[![GitHub](https://img.shields.io/badge/GitHub-cynexstudio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cynexstudio)
+
+</div>
+
+---
+
+## About Me
+
+I build practical software for game communities, admin panels, item shop workflows, automation tools, and performance-minded systems.
+
+- Working on game systems, web panels, and backend utilities
+- Interested in clean architecture, performance, and automation
+- Focused on building tools that are simple to use and easy to maintain
+
+---
+
+## Core Tech Stack
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+![Cynex Studio GitHub stats](https://github-readme-stats.vercel.app/api?username=cynexstudio&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)
+
+![Cynex Studio streak](https://nirzak-streak-stats.vercel.app/?user=cynexstudio&theme=highcontrast&hide_border=false)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cynexstudio&theme=highcontrast&hide_border=false&layout=compact)
+
+![Profile views](https://komarev.com/ghpvc/?username=cynexstudio&label=Profile%20Views&color=blue&style=for-the-badge)
+
+</div>
